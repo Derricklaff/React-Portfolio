@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e032b2fa.css",
-    "main.js": "/static/js/main.b9c22211.js",
-    "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
-    "static/media/Profile.JPG": "/static/media/Profile.fac080ebf9e03e6e65c6.JPG",
-    "static/media/alexey-savchenko-k4Akpt5-Sfk-unsplash.jpg": "/static/media/alexey-savchenko-k4Akpt5-Sfk-unsplash.b67b8e490cf1f4f09cab.jpg",
-    "static/media/Background 2.jpg": "/static/media/Background 2.0b31a51b32952a6b397f.jpg",
-    "static/media/WeatherPlanningDashboard.JPG": "/static/media/WeatherPlanningDashboard.62dbfe7f0d095c9c800d.JPG",
-    "static/media/Olympus.png": "/static/media/Olympus.aaf5db40cbf379a31221.png",
-    "static/media/Derrick_Lafforthun_resume.pdf": "/static/media/Derrick_Lafforthun_resume.d273001cf1dcde94c0c4.pdf",
-    "static/media/readme.jpg": "/static/media/readme.5000c413c0817783c556.jpg",
-    "static/media/ReactPortfolio.JPG": "/static/media/ReactPortfolio.8e15fab25f2465df4038.JPG",
-    "index.html": "/index.html",
-    "main.e032b2fa.css.map": "/static/css/main.e032b2fa.css.map",
-    "main.b9c22211.js.map": "/static/js/main.b9c22211.js.map",
-    "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.38621f6c.css",
+    "main.js": "/Portfolio/static/js/main.6c6f0e92.js",
+    "static/js/787.aeca62f9.chunk.js": "/Portfolio/static/js/787.aeca62f9.chunk.js",
+    "static/media/Profile.JPG": "/Portfolio/static/media/Profile.fac080ebf9e03e6e65c6.JPG",
+    "static/media/alexey-savchenko-k4Akpt5-Sfk-unsplash.jpg": "/Portfolio/static/media/alexey-savchenko-k4Akpt5-Sfk-unsplash.b67b8e490cf1f4f09cab.jpg",
+    "static/media/Background 2.jpg": "/Portfolio/static/media/Background 2.0b31a51b32952a6b397f.jpg",
+    "static/media/WeatherPlanningDashboard.JPG": "/Portfolio/static/media/WeatherPlanningDashboard.62dbfe7f0d095c9c800d.JPG",
+    "static/media/Olympus.png": "/Portfolio/static/media/Olympus.aaf5db40cbf379a31221.png",
+    "static/media/Derrick_Lafforthun_resume.pdf": "/Portfolio/static/media/Derrick_Lafforthun_resume.d273001cf1dcde94c0c4.pdf",
+    "static/media/readme.jpg": "/Portfolio/static/media/readme.5000c413c0817783c556.jpg",
+    "static/media/ReactPortfolio.JPG": "/Portfolio/static/media/ReactPortfolio.8e15fab25f2465df4038.JPG",
+    "index.html": "/Portfolio/index.html",
+    "main.38621f6c.css.map": "/Portfolio/static/css/main.38621f6c.css.map",
+    "main.6c6f0e92.js.map": "/Portfolio/static/js/main.6c6f0e92.js.map",
+    "787.aeca62f9.chunk.js.map": "/Portfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e032b2fa.css",
-    "static/js/main.b9c22211.js"
+    "static/css/main.38621f6c.css",
+    "static/js/main.6c6f0e92.js"
   ]
 }
