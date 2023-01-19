@@ -7,7 +7,6 @@ import BodyNav from './Components/BodyNav/BodyNav'
 import AboutMe from './Components/AboutMe/AboutMe'
 import ProjectWrapper from './Components/ProjectWrapper/ProjectWrapper';
 import Resume from './Components/Resume/Resume'
-import ContactForm from './Components/ContactForm/ContactForm';
 import Footer from './Components/Footer/Footer'
 import { useState } from 'react';
 
@@ -19,21 +18,20 @@ function App() {
   }
 
   let renderInfo = () => {
-    switch(page) {
-      case 'About Me': return <AboutMe/>;
-      case 'Projects': return <ProjectWrapper/>;
-      case 'Resume': return <Resume/>;
-      case 'Contact Me': return <ContactForm/>;
+    switch (page) {
+      case 'About Me': return <AboutMe />;
+      case 'Projects': return <ProjectWrapper />;
+      case 'Resume': return <Resume />;
     }
   }
 
   return (
     <main>
-      <Header/>
-      <BodyTop/>
-      <BodyNav page={page} pageSwapHandler={pageSwapHandler}/>
+      <Header />
+      <BodyTop />
+      <BodyNav page={page} pageSwapHandler={pageSwapHandler} />
       {renderInfo()}
-      <Footer/>
+      <Footer />
     </main>
   )
 }

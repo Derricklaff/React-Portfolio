@@ -1,13 +1,11 @@
 import './header.css';
-import ProfilePic from '../../images/Profile.JPG';
-import { AiFillGithub, AiFillTwitterCircle, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 
 
 export default function Header() {
     return (
         <header>
             <div>
-                <img src={ProfilePic} alt="Picture of myself" />
                 <h2>Derrick Lafforthun</h2>
             </div>
             <nav>
