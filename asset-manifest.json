@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.99b7f07f.css",
+    "main.css": "/React-Portfolio/static/css/main.776e5d7b.css",
     "main.js": "/React-Portfolio/static/js/main.dd74c2e9.js",
     "static/js/787.aeca62f9.chunk.js": "/React-Portfolio/static/js/787.aeca62f9.chunk.js",
     "static/media/Profile.JPG": "/React-Portfolio/static/media/Profile.fac080ebf9e03e6e65c6.JPG",
     "static/media/alexey-savchenko-k4Akpt5-Sfk-unsplash.jpg": "/React-Portfolio/static/media/alexey-savchenko-k4Akpt5-Sfk-unsplash.b67b8e490cf1f4f09cab.jpg",
-    "static/media/Background 2.jpg": "/React-Portfolio/static/media/Background 2.0b31a51b32952a6b397f.jpg",
     "static/media/WeatherPlanningDashboard.JPG": "/React-Portfolio/static/media/WeatherPlanningDashboard.62dbfe7f0d095c9c800d.JPG",
+    "static/media/Green-Background.jpg": "/React-Portfolio/static/media/Green-Background.11f5b34526cddd8a941d.jpg",
     "static/media/Olympus.png": "/React-Portfolio/static/media/Olympus.aaf5db40cbf379a31221.png",
     "static/media/Derrick_Lafforthun_resume.pdf": "/React-Portfolio/static/media/Derrick_Lafforthun_resume.d273001cf1dcde94c0c4.pdf",
     "static/media/readme.jpg": "/React-Portfolio/static/media/readme.5000c413c0817783c556.jpg",
     "static/media/ReactPortfolio.JPG": "/React-Portfolio/static/media/ReactPortfolio.8e15fab25f2465df4038.JPG",
     "index.html": "/React-Portfolio/index.html",
-    "main.99b7f07f.css.map": "/React-Portfolio/static/css/main.99b7f07f.css.map",
+    "main.776e5d7b.css.map": "/React-Portfolio/static/css/main.776e5d7b.css.map",
     "main.dd74c2e9.js.map": "/React-Portfolio/static/js/main.dd74c2e9.js.map",
     "787.aeca62f9.chunk.js.map": "/React-Portfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99b7f07f.css",
+    "static/css/main.776e5d7b.css",
     "static/js/main.dd74c2e9.js"
   ]
 }
