@@ -5,7 +5,7 @@ export default function ProjectWrapper() {
     let projectInfo = [
         {
             id: "reactPortfolio",
-            href: "https://github.com/Toacin/Portfolio-React",
+            href: "https://github.com/Derricklaff/React-Portfolio",
             projectInfo: "I hope you enjoyed browsing through this portfolio as much as I enjoyed making it! This was made mostly fromm vanilla CSS save a couple components from Bootstrap, and a contact me form inspired from Materialize CSS. Click this box to view repository and learn more!",
             projectTitle: "This Portfolio!"
         },

@@ -64,7 +64,7 @@
 }
 
 #reactPortfolio {
-    background-image: url("../../images/ReactPortfolio.JPG");
+    background-image: url("../../images/Portfolio-Screenshot.JPG");
     animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
