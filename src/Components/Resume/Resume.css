@@ -26,7 +26,7 @@
 .skill-holder1, .skill-holder2 {
     max-width: 60%;
     margin-left: 20px;
-    border-left: 3px solid aqua;
+    border-left: 3px solid rgb(255, 38, 38);
     padding-left: 40px;
 }
 

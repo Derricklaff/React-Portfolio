@@ -2,7 +2,7 @@
     /* margin: 10px; */
     padding: 20px 0px 0px 0px;
     text-align: center;
-    border: 7px solid aqua;
+    border: 7px solid rgb(255, 38, 38);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -34,7 +34,7 @@
 
 .content-card h4 {
     max-width: 50%;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255, 0.9);
     padding: 10px;
     font-size: 2em;
     color: black;
